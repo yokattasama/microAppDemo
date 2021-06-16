@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    这是子应用的页面
+    子应用首页
     用户登录token {{token}}
   </div>
 </template>
